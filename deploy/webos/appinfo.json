@@ -1,15 +1,15 @@
 {
     "id": "@WEBOS_APPINFO_ID@",
     "version": "@PROJECT_VERSION@",
-    "vendor": "Mariotaku Lee",
+    "vendor": "Valentine Kozin",
     "type": "native",
     "main": "bin/moonlight",
-    "title": "Moonlight",
+    "title": "Chimplight",
     "icon": "icon.png",
     "iconColor": "#ffffff",
     "largeIcon": "icon_large.png",
     "splashBackground": "splash.png",
-    "dialAppName": "Moonlight",
+    "dialAppName": "Chimplight",
     "appDescription": "Open Source NVIDIA GameStream Client",
     "supportTouchMode": "full"
 }
